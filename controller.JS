@@ -3,4 +3,4 @@ function randomAnswer(){
     givenAnswer = answers[randIndex]
     updateView();
 }
-    
+
